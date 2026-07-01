@@ -1,0 +1,6 @@
+{
+  "name": "Excel Bulk Renamer Pro",
+  "description": "Professional bulk rename utility for Excel and CSV files with customizable rules and AI-powered renaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
